@@ -5,6 +5,7 @@
 - Que es bizum
 - Que peligros y estafas hay 
 - Como puedes evitar las estafas
+- Casos reales 
 
 ## Que es bizum?
 
@@ -47,6 +48,13 @@ Correos o SMS que dicen que “has ganado” algo y te llevan a un enlace donde 
 
 ### Protege tu móvil
 👉 Usa PIN, huella o Face ID.
+
+## Esto es un peligro real.
+
+[Noticia **Bizum inverso**](https://www.eldiario.es/aragon/sociedad/policia-alerta-estafas-bizum-inverso-zaragoza-llama-desconfiar-productos-debajo_1_12893673.html)
+[Noticia **5 estafas mas comunes**]([https://www.eldiario.es/aragon/sociedad/policia-alerta-estafas-bizum-inverso-zaragoza-llama-desconfiar-productos-debajo_1_12893673.html](https://concienciat.gva.es/sabias_que/las-5-estafas-mas-comunes-de-bizum/))
+
+
 
 
 
